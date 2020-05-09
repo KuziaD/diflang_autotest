@@ -1,1 +1,1 @@
-# diflang_autotest
+# Stepik 3.6 lesson answer
